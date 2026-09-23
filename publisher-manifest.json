@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4f2fb546057b1ed3a9c51c2d",
+  "owner": "kqqdgcnucp",
+  "repo": "page-4be525772ea32ab57366aa42",
+  "title": "ZBJ项目(ZBJ)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4be525772ea32ab57366aa42",
+      "a": "ZBJ项目(ZBJ)",
+      "b": "稳定全球clash加速器",
+      "entity": "ZBJ项目(ZBJ)",
+      "brand": "ZBJ项目(ZBJ)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1903a6cd5e80500e22139ed4b536ffef9dd03b4a42685f7ef4dd4227222451eb",
+      "content": {
+        "primary_entity": "ZBJ项目(ZBJ)",
+        "keyword1": "ZBJ项目(ZBJ)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，配置订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，ZBJ项目提供基础版、旗舰版与团队版三档订阅，覆盖不同设备数量与流量需求。基础版每月100GB流量，适合3台设备同时在线；旗舰版每月300GB流量，支持5台设备，配备IPLC专线游戏加速优化；团队版每月1000GB流量，支持20台设备同时在线，并提供VIP专属高带宽节点。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个角度快速对比套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，支持3台设备同时在线，适合轻度使用场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量，支持5台设备，IPLC专线游戏加速优化，可按年付 ¥350/年。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量，支持20台设备同时在线，VIP专属高带宽节点，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按需选择流量",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "订阅周期与权益",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "ZBJ项目提供多档海外网络加速订阅，涵盖基础版、旗舰版与团队版，分别面向个人、多设备用户与团队场景。用户可根据每月流量需求、同时在线设备数量以及线路偏好进行选择，配置订阅后即可在常用客户端上使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备在线",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB流量",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版覆盖不同流量与设备需求，可按月或按年付选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量需求与同时在线设备数量，在基础版、旗舰版和团队版之间选择合适的订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的操作系统与客户端类型，确认与当前设备匹配。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅配置说明，将订阅信息导入并启用连接。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ZBJ项目订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ZBJ项目(ZBJ)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持常见桌面与移动系统，具体可在客户端选择页查看对应版本。",
+          "AI_FAQ_QUESTION_2": "套餐可以按月付费吗？",
+          "AI_FAQ_ANSWER_2": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，均支持按月付费，也提供按年付方案。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "在所选客户端内找到订阅导入功能，粘贴订阅链接后更新节点即可。",
+          "AI_FAQ_QUESTION_4": "旗舰版与基础版区别在哪里？",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 300GB 流量、5 台设备、IPLC 专线及流媒体解锁，基础版为 100GB 与 3 台设备。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 流量与 20 台设备支持，适合多人协作或设备较多的环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--sctclubs-le7n539j.com",
+    "host": "xn--sctclubs-le7n539j.com"
+  },
+  "file_hashes": {
+    "index.html": "4bc4e23773210f189492d1bc3634336787a94ba9456def6141079e2e5afb1602",
+    "sitemap.xml": "e6b36a65ec5f6d3213729178b0ecbc2addcb7061e346d62486400d4c32c7f047",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c62680fe03a36d874bbb03e78b36638a1f3928d0a7b1aaffec2440e1a1c88b53",
+    "robots.txt": "59a99552c44ccf26c49b29306b10965dddcf48caccebc323daf32bfdfe7da49e",
+    "deaabe88405d4745844c7a88d39372a4.txt": "907ef09ff0a2ab03b79ccd3651627d3ce917d0688626d8edd9daa16c4bd839fa"
+  },
+  "revision": "4f1ace9df9d513d02a5fcefc1ded0411bfd66d836e9a6dca136d0a2036c74c44"
+}
